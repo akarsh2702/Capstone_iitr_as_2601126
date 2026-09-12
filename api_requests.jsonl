@@ -1,0 +1,3 @@
+{"timestamp": "2026-09-12T19:45:08Z", "trace_id": "7e003afe-4a8a-42d9-a5fc-726892a88312", "method": "GET", "path": "/", "status_code": 404, "duration_ms": 0.67}
+{"timestamp": "2026-09-12T19:45:17Z", "trace_id": "362ee0fb-a57e-480a-a834-415a92424c6f", "method": "GET", "path": "/docs", "status_code": 200, "duration_ms": 0.33}
+{"timestamp": "2026-09-12T19:45:18Z", "trace_id": "325b0012-23a7-4d6c-9846-63f1dcf323ae", "method": "GET", "path": "/openapi.json", "status_code": 200, "duration_ms": 61.82}
